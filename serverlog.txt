@@ -1,0 +1,192 @@
+ Initialization of the My_Webserver 
+ MyWebServer process has begun and being attentive at port Number : 2540
+GET / HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /favicon.ico HTTP/1.1
+GET /favicon.ico HTTP/1.1
+GET /.classpath HTTP/1.1
+GET / HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /.project HTTP/1.1
+GET / HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /.settings/ HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET / HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /bin/ HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET / HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /src/ HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /src/addnum.html HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 460
+
+
+
+GET /src/ HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /src/cat.html HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 133
+
+
+
+GET /src/ HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /src/dog.txt HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 47
+
+
+
+GET /src/ HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /src/MyListener.java HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 1786
+
+
+
+GET /src/ HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /src/MyTelnetClient.java HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 2216
+
+
+
+GET /src/ HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /src/MyWebserver.java HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 10488
+
+
+
+GET /src/ HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET / HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /src/ HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET /src/addnum.html HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 460
+
+
+
+GET /cgi/addnums.fake-cgi?person=Rahul+--+Rahul&num1=77&num2=87 HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 40000
+
+
+
+GET /src/addnum.html HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 460
+
+
+
+GET /src/ HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
+
+
+
+GET / HTTP/1.1
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2356
